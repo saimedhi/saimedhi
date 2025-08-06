@@ -20,7 +20,7 @@ I'm a Software Development Engineer at **Amazon**, contributing to **OpenSearch*
 ## 🛠️ Tech Stack
 
 ```txt
-Languages:    Python | PHP | Go | Java | TypeScript | JavaScript | SQL
+Languages:    Python | PHP | Go | Java | TypeScript | JavaScript | Ruby | SQL
 Frameworks:   React | Spring Boot | PySpark | Flask | JUnit | Cypress | Jest
 Infra & DevOps: AWS | Docker | Kubernetes | GitHub Actions | Jenkins | Terraform
 Data:         Snowflake | DynamoDB | Redshift | PostgreSQL | MongoDB
@@ -29,12 +29,19 @@ Others:       Power Apps | Tableau | Power BI | YAML | Bash
 
 ---
 
-## 🔍 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimedhi&show_icons=true&theme=default&hide_rank=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimedhi&layout=compact&hide=html,css&theme=default&langs_count=6" alt="Top Langs" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saimedhi&show_icons=true&count_private=true&hide_rank=true&theme=default" height="150" />
 </p>
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [saimedhinim@gmail.com](mailto:saimedhinim@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/saimedhinimaryada](https://linkedin.com/in/saimedhinimaryada)  
+- 🧑‍💻 GitHub: [github.com/saimedhi](https://github.com/saimedhi)
 
 ---
 
