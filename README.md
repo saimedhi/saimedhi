@@ -6,14 +6,14 @@ I'm a Software Development Engineer at **Amazon**, contributing to **OpenSearch*
 
 ## 🔧 What I Work On
 
-- 🛠️ **Maintainer**: `opensearch-py`, `opensearch-php`, `dashboards-flow-framework` — led key feature development, triaged issues, reviewed 100+ PRs, and engaged with community contributors.
-- ⚙️ **Automated** full API generation pipelines across multiple languages using OpenSearch specs — reduced manual effort and ensured consistency across client SDKs.
-- 🧪 Introduced **YAML-based test runners** to boost coverage and catch backward compatibility issues before release.
-- 🧠 Designed and integrated **client-side performance metrics** into benchmarking workflows, enabling early detection of latency bottlenecks in OpenSearch client libraries.
-- 🌐 Built and maintained full-stack features using **React.js**, **TypeScript**, **Redux**, and **Jest/Cypress** for Dashboards Flow Framework — shipped major components and authored 90%+ of test coverage.
-- 🧩 Merged `opensearch-dsl-py` into `opensearch-py`, simplifying the Python client experience and reducing maintenance overhead.
-- 🚀 Led and contributed to release engineering for `opensearch-py` and `dashboards-flow-framework` — managed pipelines, created changelogs, and ensured timely, stable rollouts.
-- 🎓 Mentored open-source contributors through the OpenSearch College Initiative — created a hands-on [YouTube tutorial](https://youtu.be/igzzlPponiw?si=jbOYFKDrFCzYTcVO) with 2K+ views to guide new contributors.
+- **Maintainer**: `opensearch-py`, `opensearch-php`, `dashboards-flow-framework` — led key feature development, triaged issues, reviewed 100+ PRs, and engaged with community contributors.
+- **Automated** full API generation pipelines across multiple languages using OpenSearch specs — reduced manual effort and ensured consistency across client SDKs.
+- Introduced **YAML-based test runners** to boost coverage and catch backward compatibility issues before release.
+- Designed and integrated **client-side performance metrics** into benchmarking workflows, enabling early detection of latency bottlenecks in OpenSearch client libraries.
+- Built and maintained full-stack features using **React.js**, **TypeScript**, **Redux**, and **Jest/Cypress** for Dashboards Flow Framework — shipped major components and authored 90%+ of test coverage.
+- Merged `opensearch-dsl-py` into `opensearch-py`, simplifying the Python client experience and reducing maintenance overhead.
+- Led and contributed to release engineering for `opensearch-py` and `dashboards-flow-framework` — managed pipelines, created changelogs, and ensured timely, stable rollouts.
+- Mentored open-source contributors through the OpenSearch College Initiative — created a hands-on [YouTube tutorial](https://youtu.be/igzzlPponiw?si=jbOYFKDrFCzYTcVO) with 2K+ views to guide new contributors.
 
 ---
 
