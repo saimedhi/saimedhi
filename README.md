@@ -45,4 +45,4 @@ Others:       Power Apps | Tableau | Power BI | YAML | Bash
 
 ---
 
-_"Build, break, debug, repeat — until it’s scalable, reliable, and beautiful."_ 🚀
+_"Build, break, debug, repeat — until it’s scalable, reliable, and beautiful."
