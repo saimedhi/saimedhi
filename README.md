@@ -29,11 +29,10 @@ Others:       Power Apps | Tableau | Power BI | YAML | Bash
 
 ---
 
-## 📈 My GitHub Stats
-
-<!--START_STATS-->
-Loading GitHub stats...
-<!--END_STATS-->
+## 📈 GitHub Stats
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub metrics" width="600">
+</p>
 
 ---
 
