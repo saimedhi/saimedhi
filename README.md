@@ -29,11 +29,10 @@ Others:       Power Apps | Tableau | Power BI | YAML | Bash
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My GitHub Stats
+<!-- AUTO-GENERATED-STATS -->
+[See My Contributions](./GITHUB_STATS.md)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimedhi&show_icons=true&count_private=true&hide_rank=true&theme=default" height="150" />
-</p>
 
 ---
 
