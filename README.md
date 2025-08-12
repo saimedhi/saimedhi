@@ -30,9 +30,10 @@ Others:       Power Apps | Tableau | Power BI | YAML | Bash
 ---
 
 ## 📈 My GitHub Stats
-<!-- AUTO-GENERATED-STATS -->
-[See My Contributions](./GITHUB_STATS.md)
 
+<!--START_STATS-->
+Loading GitHub stats...
+<!--END_STATS-->
 
 ---
 
