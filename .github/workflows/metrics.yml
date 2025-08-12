@@ -1,0 +1,29 @@
+name: Generate README metrics
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"   # every Monday 09:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Uses the repo's built-in token - no setup required
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: saimedhi
+          template: classic
+          filename: metrics.svg
+          base: header, repositories, metadata
+          config_timezone: America/Los_Angeles
+
+          # ➜ These plugins give you what you asked for:
+          plugin_activity: yes        # shows PRs/Issues activity & merged PRs
+          plugin_lines: yes           # shows lines added/removed
+          plugin_isocalendar: yes     # (optional) commits heatmap
+          plugin_isocalendar_duration: full
