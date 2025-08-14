@@ -29,13 +29,6 @@ Others:       Power Apps | Tableau | Power BI | YAML | Bash
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub metrics" width="600">
-</p>
-
----
-
 ## 📫 Contact
 
 - 📧 Email: [saimedhinim@gmail.com](mailto:saimedhinim@gmail.com)  
